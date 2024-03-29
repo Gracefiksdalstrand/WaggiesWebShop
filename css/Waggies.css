@@ -65,3 +65,10 @@ header_section.header_top.contact_nav a:hover i {
 .navbar-brand a:hover i {
   background-color: #EC8F5E;
 }
+@media (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .carousel-inner {
+    /* Example adjustment */
+    padding: 0 10px;
+  }
+}
