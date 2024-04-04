@@ -1,8 +1,9 @@
 .mainfont{
-font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
 }
 
 .secondaryfont{
@@ -81,4 +82,12 @@ header_section.header_top.contact_nav a:hover i {
     /* Example adjustment */
     padding: 0 10px;
   }
+}
+
+.myWfont {
+  color:#FFFFFF;
+}
+.myWfont a:hover {
+    background-color: #EC8F5E;
+    text-decoration: none;
 }

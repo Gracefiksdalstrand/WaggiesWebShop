@@ -1003,3 +1003,12 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+.myWfont {
+  color:#FFFFFF;
+}
+.myWfont a:hover {
+  background-color: #EC8F5E;
+}
+
