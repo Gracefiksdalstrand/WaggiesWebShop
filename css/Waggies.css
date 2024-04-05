@@ -91,3 +91,49 @@ header_section.header_top.contact_nav a:hover i {
     background-color: #EC8F5E;
     text-decoration: none;
 }
+
+
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .image-box {
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+
+  .image-box img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+ .container2 {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .image-box2 {
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+
+.image-box2 img {
+	width: 100%; /* Adjust the image width to fit its container */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+    
+	  
