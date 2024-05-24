@@ -135,5 +135,9 @@ header_section.header_top.contact_nav a:hover i {
     display: block;
     margin: 0 auto;
 }
+
+.detail-box {
+	width: auto;
+}
     
 	  
